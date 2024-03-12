@@ -12,6 +12,5 @@ header {
 nav ul.menu {
     list-style-type: none;
     display: flex;
-    
     gap: 15px;
 }
