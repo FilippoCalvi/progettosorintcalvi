@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../../logo.svg"
+import logo from "C:/Users/Studente/Desktop/calvifilippo4b/progettosorintcalvi/src/McDonalds-Logo.png"
 import "./Header.css"
 const Header = () => {
     return(

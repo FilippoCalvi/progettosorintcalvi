@@ -20,10 +20,6 @@ const Article = ({ data,click }) => {
 
         <div className='article-header'>  
             <p>{data.date}</p>
-            <button onClick={handleClick}>
-                {likes}
-                {data.isLiked ? <FaStar /> : <FaRegStar />}
-            </button>
         </div>
 
         <h2>{data.title}</h2>
