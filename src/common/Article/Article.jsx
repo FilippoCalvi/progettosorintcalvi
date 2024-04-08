@@ -3,7 +3,6 @@ import './Article.css'
 import { click } from '@testing-library/user-event/dist/click'
 import { FaRegStar ,FaStar} from "react-icons/fa";
 
-
 const Article = ({ data,click }) => {
     const [likes , setLikes] = useState(data.likes);
     const [isLiked , setIsLiked] = useState(data.isLiked);
