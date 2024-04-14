@@ -25,7 +25,7 @@ const Article = ({ data,click }) => {
 
         
         <p>{data.intro}</p>
-        <button onClick={click}>Leggi di più</button>
+        <button onClick={click}> Ordina il prodotto </button>
     </article>
   )
 }
