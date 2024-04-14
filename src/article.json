@@ -108,8 +108,8 @@
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/cono_mobile.jpg.webp?itok=2TuZGCKu",
     "date": "1.00€",
     "likes": 0,
-    "title": "Cono",
-    "intro": "Il Cono McCalvi’s è così da sempre: semplice, cremoso e irresistibile. Una golosa spirale di gelato al fiordilatte, fatto con latte intero 100% italiano, su una cialda croccante, per chi ha sempre voglia di gelato.",
+    "title": "Conz",
+    "intro": "Il Conz McCalvi’s è così da sempre: semplice, cremoso e irresistibile. Una golosa spirale di gelato al fiordilatte, fatto con latte intero 100% italiano, su una cialda croccante, per chi ha sempre voglia di gelato.",
     "isLiked": false 
   },
   {
@@ -122,7 +122,7 @@
   },
   {
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/750x1100-milkshake-vaniglia.jpg.webp?itok=3dPLBlpJ",
-    "date": "3.50$",
+    "date": "3.50€",
     "likes": 0,
     "title": "Milkshake Vaniglias",
     "intro": "Solo latte e sciroppo all’aroma di vaniglia frullati insieme. Basta questo per innamorarsi del Milkshake alla vaniglia: un classico dalla dolcezza senza tempo.",
@@ -130,7 +130,7 @@
   },
   {
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/750x1100-milkshake-cioccolato.jpg.webp?itok=I0CKzzf9",
-    "date": "3.50$",
+    "date": "3.50€",
     "likes": 0,
     "title": "Milkshake Cioccolets",
     "intro": "È facile fare centro quando si parla di cioccolato. E se lo trovi all’interno del nostro Milkshake in un mix cremoso insieme al latte, sai già di aver fatto la scelta giusta ancora prima di averlo assaggiato.",
@@ -138,7 +138,7 @@
   },
   {
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/750x1100-milkshake-banana.jpg.webp?itok=niXl2z8A",
-    "date": "3.50$",
+    "date": "3.50€",
     "likes": 0,
     "title": "Milkshake Bananes",
     "intro": "Ci sono abbinamenti davvero golosi, come il latte insieme alla banana. Due ingredienti che trovi nel nostro Milkshake: dolce, cremoso, rinfrescante e perfetto in ogni momento.",
@@ -150,14 +150,6 @@
     "likes": 0,
     "title": "Pancake con Sciropps",
     "intro": "Due soffici e profumati pancake da cospargere con lo sciroppo pancake, cioccolato o caramello. Un classico della colazione americana che puoi gustare anche tu per iniziare la giornata con dolcezza.",
-    "isLiked": false 
-  },
-  {
-    "image": "",
-    "date": "",
-    "likes": 0,
-    "title": "",
-    "intro": "",
     "isLiked": false 
   }
 ]
