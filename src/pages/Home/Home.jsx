@@ -8,7 +8,7 @@ const Home = () => {
 
   return (
     <div id = "home" className='wrapper'>
-        <h1>Article Homepage</h1>
+        <h1>Scegli un prodotto</h1>
         <div className='article-section'>
             
 

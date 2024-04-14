@@ -19,10 +19,11 @@ const Article = ({ data,click }) => {
         <img src={data.image} alt= {data.title} className= "article-img" />
 
         <div className='article-header'>  
+            <h2>{data.title}</h2>
             <p>{data.date}</p>
         </div>
 
-        <h2>{data.title}</h2>
+        
         <p>{data.intro}</p>
         <button onClick={click}>Leggi di più</button>
     </article>
