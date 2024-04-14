@@ -59,7 +59,7 @@
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/mob--nuggets-20x_0.jpg.webp?itok=zWeeptTL",
     "date": "4.90€ - 10.50€",
     "likes": 22,
-    "title": "Chicken McNuggets",
+    "title": "Chickenz McNuggets",
     "intro": "Tenere crocchette di petto di pollo 100% italiano impanato. Buonissime da sole, squisite con le salse. I Chicken McNuggets® sono un Grande Classico a cui è difficile resistere. Le puoi gustare come vuoi, da solo o in compagnia, anche se probabilmente vorrai condividerle solo con te stesso.",
     "isLiked": false
   },
@@ -68,30 +68,30 @@
     "date": "11.00€",
     "likes": 17,
     "title": "Tasty Basket",
-    "intro": "C'è più gusto a stare insieme con il Tasty Basket. 15 pezzi da mangiare con chi vuoi: 6 Chicken McNuggets®, 3 Panzerotti con pomodoro e mozzarella 100% italiani e 6 Spicy Chicken McNuggets® più 3 salse omaggio.",
+    "intro": "C'è più gusto a stare insieme con il Tasty Basket. 15 pezzi da mangiare con chi vuoi: 6 Chicken McNuggets®, 3 Panzerottz con pomodoro e mozzarella 100% italiani e 6 Spicy Chicken McNuggets® più 3 salse omaggio.",
     "isLiked": false 
   },
   {
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/patate-regolari_mobile_0.jpg.webp?itok=dHGCytPo",
     "date": "1.90€ - 4.90€",
     "likes": 17,
-    "title": "Patatine",
-    "intro": "Le patatine di McDonald’s le riconosci subito, anche a occhi chiusi. Sono lunghe, dorate, croccanti e servite nella loro iconica confezione rossa. Goditele accompagnate con una salsa o anche da sole, una dopo l’altra o a quattro, cinque o sei in una sola volta.",
+    "title": "Patatins",
+    "intro": "Le patatine di McCalvi’s le riconosci subito, anche a occhi chiusi. Sono lunghe, dorate, croccanti e servite nella loro iconica confezione rossa. Goditele accompagnate con una salsa o anche da sole, una dopo l’altra o a quattro, cinque o sei in una sola volta.",
     "isLiked": false 
   },
   {
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/lericche-bacon--hero-mob_1.jpg.webp?itok=R8iZ4gLK",
     "date": "6.90€",
     "likes": 17,
-    "title": "Le Ricche Cheese&Bacon",
-    "intro": "Dorate e incredibilmente golose, Le Ricche Cheese&Bacon non smettono mai di sorprenderti. Con extra bacon sono davvero ricchissime, anche nel gusto.",
+    "title": "Le Ricks Cheese&Baconz",
+    "intro": "Dorate e incredibilmente golose, Le Ricks Cheese&Baconz non smettono mai di sorprenderti. Con extra bacon sono davvero ricchissime, anche nel gusto.",
     "isLiked": false 
   },
   {
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/750x1100-mcflurry-oreo.jpg.webp?itok=EZNCj6LZ",
     "date": "3.90€",
     "likes": 17,
-    "title": "McFlurry® Oreo",
+    "title": "McFlurrz® Oreo",
     "intro": "Lasciati incantare da un cremoso vortice di gelato, preparato con latte intero 100% italiano, e fatti conquistare dai suoi biscotti al cacao croccante. Non ti è venuta voglia di McFlurry® Oreo®?",
     "isLiked": false 
   },
@@ -99,7 +99,7 @@
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/750x1100-sundae-baciperugina.jpg.webp?itok=_TOt-BrH",
     "date": "2.30€",
     "likes": 17,
-    "title": "Sundae Baci Perugina",
+    "title": "Sundae Bacis Perugins",
     "intro": "La semplicità del gelato al fiordilatte, fatto con latte intero 100% italiano, più tutta la golosità dei Baci® Perugina®? Ecco il Sundae Baci® Perugina®: un gusto inconfondibile che trovi solo da McDonald’s, per una pausa di puro piacere.",
     "isLiked": false 
   },
@@ -109,14 +109,14 @@
     "date": "1.00€",
     "likes": 0,
     "title": "Cono",
-    "intro": "Il Cono McDonald’s è così da sempre: semplice, cremoso e irresistibile. Una golosa spirale di gelato al fiordilatte, fatto con latte intero 100% italiano, su una cialda croccante, per chi ha sempre voglia di gelato.",
+    "intro": "Il Cono McCalvi’s è così da sempre: semplice, cremoso e irresistibile. Una golosa spirale di gelato al fiordilatte, fatto con latte intero 100% italiano, su una cialda croccante, per chi ha sempre voglia di gelato.",
     "isLiked": false 
   },
   {
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/750x1100-milkshake-fragola.jpg.webp?itok=ARdOg9L-",
     "date": "3.50€",
     "likes": 0,
-    "title": "Milkshake Fragola",
+    "title": "Milkshake Fragoles",
     "intro": "Una cremosa bevanda fredda a base di latte con sciroppo alla fragola. Perfetto per una pausa rinfrescante durante l’estate, delizioso come dessert nei mesi invernali, il Milkshake alla fragola addolcirà ogni tuo momento.",
     "isLiked": false 
   },
@@ -124,7 +124,7 @@
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/750x1100-milkshake-vaniglia.jpg.webp?itok=3dPLBlpJ",
     "date": "3.50$",
     "likes": 0,
-    "title": "Milkshake Vaniglia",
+    "title": "Milkshake Vaniglias",
     "intro": "Solo latte e sciroppo all’aroma di vaniglia frullati insieme. Basta questo per innamorarsi del Milkshake alla vaniglia: un classico dalla dolcezza senza tempo.",
     "isLiked": false 
   },
@@ -132,7 +132,7 @@
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/750x1100-milkshake-cioccolato.jpg.webp?itok=I0CKzzf9",
     "date": "3.50$",
     "likes": 0,
-    "title": "Milkshake Cioccolato",
+    "title": "Milkshake Cioccolets",
     "intro": "È facile fare centro quando si parla di cioccolato. E se lo trovi all’interno del nostro Milkshake in un mix cremoso insieme al latte, sai già di aver fatto la scelta giusta ancora prima di averlo assaggiato.",
     "isLiked": false 
   },
@@ -140,7 +140,7 @@
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/750x1100-milkshake-banana.jpg.webp?itok=niXl2z8A",
     "date": "3.50$",
     "likes": 0,
-    "title": "Milkshake Banana",
+    "title": "Milkshake Bananes",
     "intro": "Ci sono abbinamenti davvero golosi, come il latte insieme alla banana. Due ingredienti che trovi nel nostro Milkshake: dolce, cremoso, rinfrescante e perfetto in ogni momento.",
     "isLiked": false 
   },
@@ -148,7 +148,7 @@
     "image": "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/pancake-sciroppo_mobile.jpg.webp?itok=BHjY3Frz",
     "date": "4.60€",
     "likes": 0,
-    "title": "Pancake con Sciroppo",
+    "title": "Pancake con Sciropps",
     "intro": "Due soffici e profumati pancake da cospargere con lo sciroppo pancake, cioccolato o caramello. Un classico della colazione americana che puoi gustare anche tu per iniziare la giornata con dolcezza.",
     "isLiked": false 
   },

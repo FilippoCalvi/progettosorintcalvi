@@ -1,7 +1,7 @@
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: black;
+    color: white;
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -9,20 +9,20 @@ footer {
   
   .footer-column {
     width: 25%;
-    display: flex;
-    flex-direction: column;
+    display: unset;
+    flex-direction: row;
   }
   
   .footer-column img {
-    width: 100px;
+    width: 75px;
   }
   
   .footer-column p {
-    margin-top: 10px;
+    margin-top: 25px;
   }
   
   .footer-column h3 {
-    color: #fff;
+    color: white;
   }
   
   .footer-column ul {
@@ -31,15 +31,15 @@ footer {
   }
   
   .footer-column ul li {
-    margin-bottom: 5px;
+    margin-bottom: 50px;
   }
   
   .footer-column a {
-    color: #fff;
+    color: white;
     text-decoration: none;
   }
   
   .footer-column a:hover {
-    text-decoration: underline;
+    text-decoration:underline;
   }
   
