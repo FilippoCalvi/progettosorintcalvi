@@ -19,8 +19,6 @@ const Footer = () => {
           <h3>Links</h3>
           <ul>
             <li><a href="#">Clicca qui per tornare su</a></li>
-            <li><a href="#">Link 2</a></li>
-            <li><a href="#">Link 3</a></li>
           </ul>
         </div>
       </div>
