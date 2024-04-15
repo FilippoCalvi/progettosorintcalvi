@@ -1,0 +1,22 @@
+.contact-container {
+    text-align: center;
+    padding: 50px;
+}
+
+.contact-container h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.contact-container p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.contact-info {
+    margin-top: 30px;
+}
+
+.contact-info p {
+    margin-bottom: 10px;
+}

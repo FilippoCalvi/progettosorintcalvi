@@ -1,33 +1,39 @@
-import React, { useState } from 'react'
-import './Article.css'
-import { click } from '@testing-library/user-event/dist/click'
-import { FaRegStar ,FaStar} from "react-icons/fa";
+import React, { useState } from 'react';
+import { FaRegStar, FaStar } from "react-icons/fa";
+import './Article.css';
 
-const Article = ({ data,click }) => {
-    const [likes , setLikes] = useState(data.likes);
-    const [isLiked , setIsLiked] = useState(data.isLiked);
+const Article = ({ data, onOrderClick }) => {
+    const [likes, setLikes] = useState(data.likes);
+    const [isLiked, setIsLiked] = useState(data.isLiked);
+
     const handleClick = () => {
-        if(isLiked){
+        if (isLiked) {
             setLikes(likes - 1);
-        }else{
+        } else {
             setLikes(likes + 1);
         }
-        setIsLiked(!isLiked)
-    }
-  return (
-    <article>
-        <img src={data.image} alt= {data.title} className= "article-img" />
+        setIsLiked(!isLiked);
+    };
 
-        <div className='article-header'>  
-            <h2>{data.title}</h2>
-            <p>{data.date}</p>
-        </div>
+    return (
+        <article>
+            <img src={data.image} alt={data.title} className="article-img" />
 
-        
-        <p>{data.intro}</p>
-        <button onClick={click}> Ordina il prodotto </button>
-    </article>
-  )
-}
+            <div className='article-header'>
+                <h2>{data.title}</h2>
+                <p>{data.date}</p>
+            </div>
 
-export default Article
+            <p>{data.intro}</p>
+            <div className="article-footer">
+                <button onClick={onOrderClick}>Ordina il prodotto</button>
+                <div className="like-button" onClick={handleClick}>
+                    {isLiked ? <FaStar color="gold" /> : <FaRegStar />}
+                    <span>{likes}</span>
+                </div>
+            </div>
+        </article>
+    );
+};
+
+export default Article;
